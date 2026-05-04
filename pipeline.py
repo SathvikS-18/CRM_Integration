@@ -28,7 +28,7 @@ def run_step(step_name, func, *args):
 
 
 print("=" * 60)
-print("  HubSpot Segment Update Pipeline")
+print(" Segment Update Pipeline")
 print("=" * 60)
 
 # Step 1: Load Excel and build email to last-used-date lookup
