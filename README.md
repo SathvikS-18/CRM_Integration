@@ -14,7 +14,7 @@ pipeline/
 ├── step3_read_contact_emails.py   # Step 3 — Batch-read contact emails from HubSpot
 ├── step4_match_contacts.py        # Step 4 — Match segment contacts against the Excel data
 ├── step5_update_hubspot.py        # Step 5 — Push property updates to HubSpot in batches
-├── HubSpot_Pipeline.py            # Main orchestrator — runs all steps in order
+├── Pipeline.py            # Main orchestrator — runs all steps in order
 
 ```
 
